@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int s1, v1, t1;
-int s2, v2, t2;
+int s1, t1;
+int v1, t2;
+int s2, v2;
 
 int main () {
     scanf("%d %d\n", &s1, &t1);
